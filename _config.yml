@@ -1,9 +1,9 @@
 # Site settings
-title: The Title for Your Website
+title: zine.github.io
 description: 'A description of your blog'
 permalink: ':title:output_ext' # how the permalinks will behave
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/zine.github.io" # the subpath of your site, e.g. /blog
+url: "https://zine.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "" # the logo for your site
 logo-icon: "" # a smaller logo, typically squared
 logo-icon-SEO: "" # must be a non SVG file, could be the same as the logo-icon
@@ -15,12 +15,12 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 
 
 # Author settings
-author: Your Name # add your name
+author: Zine # add your name
 author-pic: '' # a picture of you
 about-author: '' # a brief description of you
 
 # Contact links
-email: your@email.com # Add your Email address
+email: ziwenchen23@gmail.com # Add your Email address
 phone: # Add your Phone number
 website:  # Add your website
 linkedin:  # Add your Linkedin handle
